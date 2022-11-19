@@ -1,0 +1,13 @@
+:root{
+	--foreground-color:#A4A400;
+	--background-color:#F0F0F0;
+
+}
+h1, h2 {
+	background-color: var(--background-color);
+    font-family: "Lucida Sans Unicode", Helvetica, Arial, sans-serif;
+	font-size: 18pt;
+	color: var(--foreground-color);
+    text-decoration: underline;
+    letter-spacing: .25em;
+}

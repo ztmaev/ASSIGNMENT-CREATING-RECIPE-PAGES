@@ -37,7 +37,7 @@ ul.pie li {
 	line-height: 1.3em;
 	margin: .25em 0;
 	padding: 0 0 0 15px;
-	background:url(/resources/pie_bullet.png) no-repeat 0 7px;
+	background:url(resources/pie_bullet.png) no-repeat 0 7px;
 	list-style-type: none;
 }
 
